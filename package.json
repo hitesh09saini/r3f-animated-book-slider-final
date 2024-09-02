@@ -9,10 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@react-three/drei": "^9.108.1",
+    "@react-three/drei": "^9.111.5",
     "@react-three/fiber": "^8.16.8",
     "@types/three": "0.152.1",
     "autoprefixer": "^10.4.19",
+    "framer-motion": "^11.3.31",
     "jotai": "^2.8.4",
     "leva": "^0.9.35",
     "maath": "^0.10.8",

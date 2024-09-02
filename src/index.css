@@ -3,12 +3,6 @@
 @tailwind components;
 @tailwind utilities;
 
-#root {
-  width: 100vw;
-  height: 100vh;
-  background: radial-gradient(#5a47ce, #232323 80%);
-}
-
 body {
   margin: 0;
 }
@@ -16,3 +10,9 @@ body {
 .outline-text {
   -webkit-text-stroke: 1px white;
 }
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+
